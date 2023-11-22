@@ -15,7 +15,7 @@ Steps Followed :
 - For each topic creating a CSV file for it.
 - Storing all csv files under a single folder
 
-Tools used : Python , NumPy , requests , Beautiful Soup , Pandas
+Tools used : Python , requests , Beautiful Soup , Pandas
 
 Repository holds :
 
